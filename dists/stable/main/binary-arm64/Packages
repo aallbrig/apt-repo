@@ -1,0 +1,17 @@
+Package: allbctl
+Version: 0.0.38
+Architecture: arm64
+Maintainer: Andrew Allbright <andrew.allbright@gmail.com>
+Installed-Size: 22772
+Filename: pool/main/a/allbctl/allbctl_0.0.38_arm64.deb
+Size: 10421620
+MD5sum: b8d05347a03fa7f72242ec11f4f051b6
+SHA1: 13d90ecc680dd7b671522f86dcbd8588136d1061
+SHA256: affb83f401438a28ca9ead57e6accb13e00dcabbab8149d239890058ceeb3f15
+Section: utils
+Priority: optional
+Homepage: https://github.com/aallbrig/allbctl
+Description: CLI tool for managing and inspecting your development environment.
+ allbctl (allbrightctl) provides system status information, runtime
+ detection, project discovery, network diagnostics, and more.
+
